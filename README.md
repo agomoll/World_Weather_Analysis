@@ -29,4 +29,4 @@ From the scatterplots, the strongest correlation relationship appeared to be bet
 ## Visualizing Travel Data
 The next phase of the project was to provide interactive travel information to clients based on their temperature preferences. To achieve this functionality, first, input fields were used to request minimum and maximum temperature preferences from the users. Then code was written to filter the dataframe and then populate a heat map with information about each of those cities including a hotel recommendation. 
 
-<img src="weather/data/hotel_heatmap.png">
+<img src="weather_data/hotel_heatmap.png">
